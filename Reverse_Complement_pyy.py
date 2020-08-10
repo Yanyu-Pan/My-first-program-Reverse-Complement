@@ -1,3 +1,4 @@
+# coding:utf-8 
 #!/usr/bin/env python
 seq=input("请输入序列：")
 seqq=seq.lower()
